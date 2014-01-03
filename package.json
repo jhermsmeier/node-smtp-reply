@@ -1,0 +1,32 @@
+{
+  
+  "name": "smtp-reply",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Parse and create SMTP Replies",
+  "keywords": [ "smtp", "reply", "code", "status" ],
+  
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "http://jhermsmeier.de"
+  },
+  
+  "main": "lib/reply",
+  
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha ./test"
+  },
+  
+  "dependencies": {},
+  
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-smtp-reply.git"
+  }
+  
+}
