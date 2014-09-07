@@ -1,7 +1,7 @@
 {
   
   "name": "smtp-reply",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Parse and create SMTP Replies",
   "keywords": [ "smtp", "reply", "code", "status" ],
@@ -9,7 +9,7 @@
   "author": {
     "name": "Jonas Hermsmeier",
     "email": "jhermsmeier@gmail.com",
-    "url": "http://jhermsmeier.de"
+    "url": "https://github.com/jhermsmeier"
   },
   
   "main": "lib/reply",
