@@ -1,6 +1,8 @@
 # SMTP Reply
-[![build status](https://secure.travis-ci.org/jhermsmeier/node-smtp-reply.png)](http://travis-ci.org/jhermsmeier/node-smtp-reply)
-[![NPM version](https://badge.fury.io/js/smtp-reply.png)](https://npmjs.org/smtp-reply)
+[![npm](https://img.shields.io/npm/v/smtp-reply.svg?style=flat-square)](https://npmjs.com/smtp-reply)
+[![npm](https://img.shields.io/npm/l/smtp-reply.svg?style=flat-square)](https://npmjs.com/smtp-reply)
+[![npm downloads](https://img.shields.io/npm/dm/smtp-reply.svg?style=flat-square)](https://npmjs.com/smtp-reply)
+[![build status](https://img.shields.io/travis/jhermsmeier/node-smtp-reply.svg?style=flat-square)](https://travis-ci.org/jhermsmeier/node-smtp-reply)
 
 ## Install via [npm](https://npmjs.org)
 
